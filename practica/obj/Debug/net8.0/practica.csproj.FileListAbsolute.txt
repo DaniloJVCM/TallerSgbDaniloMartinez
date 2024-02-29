@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/practica/bin/Debug/net8.0/practica
+/workspaces/codespaces-blank/practica/bin/Debug/net8.0/practica.deps.json
+/workspaces/codespaces-blank/practica/bin/Debug/net8.0/practica.runtimeconfig.json
+/workspaces/codespaces-blank/practica/bin/Debug/net8.0/practica.dll
+/workspaces/codespaces-blank/practica/bin/Debug/net8.0/practica.pdb
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.AssemblyInfo.cs
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.dll
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/refint/practica.dll
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.pdb
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/practica.genruntimeconfig.cache
+/workspaces/codespaces-blank/practica/obj/Debug/net8.0/ref/practica.dll
